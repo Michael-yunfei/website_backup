@@ -29,9 +29,11 @@ we can add the figure
 
 Here we go
 
-{{<https://www.youtube.com/watch?v=qeZR3g3G8KA&feature=share>}}
+{{<youtube qeZR3g3G8KA>}}
 
 ## Highlight codes
+
+we can highlight the code like this way:
 
 ```python
 # Example of code highlighting
