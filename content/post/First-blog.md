@@ -47,3 +47,9 @@ Now, suppose we want to type equations
 
 $$f(k;p\_0^\*) = \begin{cases} p\_0^\* & \text{if }k=1, \\\\\\
 1-p\_0^\* & \text {if }k=0.\end{cases}$$
+
+## Type Chinese
+
+你也可以输入中文
+
+## So Cool 
