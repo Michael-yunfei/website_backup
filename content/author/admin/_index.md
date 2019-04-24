@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "Michael Wang"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,23 +9,24 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "A Student"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "University of Konstanz", url = "https://www.uni-konstanz.de/en/" }, { name = "University of Nottingham", url = "https://www.nottingham.ac.uk" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "My research interests include Game Theory, Macroeconomics, Applied Mathematical Programming."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "michael.yunfei@gmail.com"
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Game Theory",
+  "Macroeconomics",
+  "Statistical Learning",
+  "Applied Mathematics"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -34,19 +35,22 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "MSc in Economics, 2019 (expected)"
+  institution = "University of Konstanz"
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MSc in Economics, 2019 (expected)"
+  institution = "University of Nottingham"
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "Graduate Diploma in Economics"
+  institution = "University of Nottingham"
+  year = 2017
+
+[[education.courses]]
+  course = "MA in Philosophy"
+  institution = "The Chinese University of HongKong"
+  year = 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -56,22 +60,17 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link = "mailto:michael.yunfei@gmail.com"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
-
-[[social]]
-  icon = "google-scholar"
-  icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  link = "https://twitter.com/michel_yunfei"
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/gcushen"
+  link = "https://github.com/Michael-yunfei"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -80,8 +79,14 @@ user_groups = ["Researchers", "Visitors"]
 #   icon_pack = "ai"
 #   link = "files/cv.pdf"
 
+#
+[[social]]
+#  icon = "google-scholar"
+#  icon_pack = "ai"
+#  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+#
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a current student who will finish my MSc Economic degree from University of Nottingham and University of Konstanz in August, 2019. From September, I will go to University College Dublin to pursue my degree in Mathematics.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+On this website, you can find my notes and code on different economic and mathematic subjects. My main research interests lie in Game Theory, Macroeconomics, Applied Mathematics.
