@@ -7,3 +7,18 @@ draft: false
 ## Hello world
 
 This is my first blog, just want to see what's going on
+
+Most commands for writing the blog through github and hugo are similar with R-markdown. Of course, they are all markdown languages. we can use __bold__ and *italic*.
+
+
+## Try the list
+
+we can list things:
+* first one
+* second one
+
+## Add the figure 
+
+we can add the figure
+
+{{< figure library="1" src="london.jpg" title="London" >}}
