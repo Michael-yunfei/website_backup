@@ -6,4 +6,4 @@ draft: true
 
 ## Hello world
 
-This is my first blog, just want to see what's going on 
+This is my first blog, just want to see what's going on
