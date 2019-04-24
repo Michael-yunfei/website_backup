@@ -14,11 +14,34 @@ Most commands for writing the blog through github and hugo are similar with R-ma
 ## Try the list
 
 we can list things:
+
 * first one
 * second one
 
-## Add the figure 
+## Add the figure
 
 we can add the figure
 
 {{< figure library="1" src="london.jpg" title="London" >}}
+
+
+## Add youtube video
+
+Here we go
+
+{{<https://www.youtube.com/watch?v=qeZR3g3G8KA&feature=share>}}
+
+## Highlight codes
+
+```python
+# Example of code highlighting
+input_string_var = input("Enter some data: ")
+print("You entered: {}".format(input_string_var))
+```
+
+## Type math
+
+Now, suppose we want to type equations
+
+$$f(k;p\_0^\*) = \begin{cases} p\_0^\* & \text{if }k=1, \\\\\\
+1-p\_0^\* & \text {if }k=0.\end{cases}$$
