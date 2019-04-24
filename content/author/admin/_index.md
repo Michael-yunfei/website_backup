@@ -89,4 +89,4 @@ user_groups = ["Researchers", "Visitors"]
 
 I am a current student who will finish my MSc Economic degree from University of Nottingham and University of Konstanz in August, 2019. From September, I will go to University College Dublin to pursue my degree in Mathematics.
 
-On this website, you can find my notes and code on different economic and mathematic subjects. My main research interests lie in Game Theory, Macroeconomics, Applied Mathematics. You can find my [cv](https://drive.google.com/file/d/1WhOvWAJ1tvp5fkU2K1AjceaCeFN5HqFY/view) (Michael is my English name). 
+On this website, you can find my notes and code on different economic and mathematic subjects. My main research interests lie in Game Theory, Macroeconomics, Applied Mathematics. You can find my [cv here](https://drive.google.com/file/d/1WhOvWAJ1tvp5fkU2K1AjceaCeFN5HqFY/view) (Michael is my English name). 
