@@ -16,7 +16,7 @@ role = "A Student"
 organizations = [ { name = "University of Konstanz", url = "https://www.uni-konstanz.de/en/" }, { name = "University of Nottingham", url = "https://www.nottingham.ac.uk" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include Game Theory, Macroeconomics, Applied Mathematical Programming."
+# bio = "My research interests include Game Theory, Macroeconomics, Applied Mathematical  Programming."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "michael.yunfei@gmail.com"
