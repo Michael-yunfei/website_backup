@@ -4,7 +4,6 @@ date: 2019-04-24T23:00:28+02:00
 draft: false
 ---
 
-## Introduction
 
 Here you can download my replication for the following paper:
 
