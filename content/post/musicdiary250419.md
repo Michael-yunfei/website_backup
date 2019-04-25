@@ -25,6 +25,8 @@ The best way to learn those songs is to listen the version with acoustic Guitar.
 
 {{<youtube QJ6Etl_BU64>}}
 
+<hr />
+
 {{<youtube cpLfk0E-gkM>}}
 
 The strumming patterns of those two songs are quite similar.
