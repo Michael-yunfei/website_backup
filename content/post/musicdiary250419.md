@@ -1,5 +1,5 @@
 +++
-title = ""
+title = "Found a New Song"
 date = 2019-04-25T12:31:39+02:00
 draft = false
 tags = ["Music", "Oasis", "Guitar", "Verve", "Alabama Shakes", "Fleabag"]
@@ -27,4 +27,4 @@ The best way to learn those songs is to listen the version with acoustic Guitar.
 
 {{<youtube cpLfk0E-gkM>}}
 
-The strumming patterns of those two songs are quite similar. 
+The strumming patterns of those two songs are quite similar.
