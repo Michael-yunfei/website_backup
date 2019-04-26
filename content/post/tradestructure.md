@@ -23,13 +23,13 @@ This talk is worth for me to sit down and write a blog as it summarizes the styl
 You can download {{% staticref "files/tradestructure.pdf" "newtab" %}}this paper{{% /staticref %}} if you can read in Chinese. For those who don't know Chinese, later I will put my stylized facts on International Trade.
 
 
-## The Structure Changing of International Trade
+###  The Structure Changing of International Trade
 
 I have kept saying that getting the stylized facts is the primary step for doing any research. By knowing what's going on in real world, then we can begin to provide the interpretations.
 
 
 
-## Network Implications from the Stylized Facts of International Trade
+###  Network Implications from the Stylized Facts of International Trade
 
 Once most trades happen in the intermediate goods level, then how the network of those trades is formed becomes very important. Recently, scholars have begun to use network to study the pattern of Network. I will just list two papers, wherein one of them is by the visiting scholar Michael Konig in Konstanz:
 
