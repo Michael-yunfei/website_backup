@@ -7,7 +7,7 @@ tags: ["Economics", "Trade", "Structure Change", "Network"]
 
 ## A Talk from Huang Qifan
 
-I read a wechat post by the previous Chongqing mayor Huang Qifan from the China Finance 40 Forum. Huang was giving a talk on international trade in Fudan University in Shanghai. The main theme of his talk is to emphasize how the structure of international trade has changed over the last two decades from <mark style = "#4F9E94">trading final goods</mark> to **trading intermediate goods**.
+I read a wechat post by the previous Chongqing mayor Huang Qifan from the China Finance 40 Forum. Huang was giving a talk on international trade in Fudan University in Shanghai. The main theme of his talk is to emphasize how the structure of international trade has changed over the last two decades from <mark style = "background-color:#4F9E94">trading final goods</mark> to **trading intermediate goods**.
 
 This talk is worth for me to sit down and write a blog as it summarizes the stylized facts of international trade very well. Those stylized facts include:
 
