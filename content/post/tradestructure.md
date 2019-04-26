@@ -2,7 +2,7 @@
 title: "International Trade Structure and Network"
 date: 2019-04-26T11:15:54+02:00
 draft: false
-tags: "Economics", "Trade", "Structure Change", "Network"
+tags: ["Economics", "Trade", "Structure Change", "Network"]
 ---
 
 ## A Talk from Huang Qifan
@@ -31,7 +31,7 @@ I have kept saying that getting the stylized facts is the primary step for doing
 
 ## Network Implications from the Stylized Facts of International Trade
 
-Once, most trades happen in the intermediate goods level, then how the network of those trades is formed becomes very important. Recently, scholars have begun to use network to study the pattern of Network. I will just list two papers, wherein one of them is by the visiting scholar Michael Konig in Konstanz: 
+Once, most trades happen in the intermediate goods level, then how the network of those trades is formed becomes very important. Recently, scholars have begun to use network to study the pattern of Network. I will just list two papers, wherein one of them is by the visiting scholar Michael Konig in Konstanz:
 
 * Chaney, T., 2014. The network structure of international trade. American Economic Review, 104(11), pp.3600-3634.
 * König, M.D., Battiston, S., Napoletano, M. and Schweitzer, F., 2012. The efficiency and stability of R&D networks. Games and Economic Behavior, 75(2), pp.694-713.
