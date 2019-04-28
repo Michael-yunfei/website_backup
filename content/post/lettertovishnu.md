@@ -64,22 +64,22 @@ Now, you can see that it is not that easy to have the optimized solution for mos
 Since logic is like a cycle, all judgements will be pinned down the <mark style = "background-color:#F67770">likeness</mark>. Likeness is the bitter sweet. At this moment, you might want to check the lyrics from *Bitter Sweet Symphony*:
 
 <p style="text-align:center">
-Cause it's a bittersweet symphony, that's life
-Tryna make ends meet
-You're a slave to money then you die
-I'll take you down the only road I've ever been down
-You know the one that takes you to the places
-Where all the veins meet yeah
-
-No change, I can change
-I can change, I can change
-But I'm here in my mold
-I am here in my mold
-But I'm a million different people
-From one day to the next
-I can't change my mold
-No, no, no, no, no
-Have you ever been down?
+Cause it's a bittersweet symphony, that's life <br>
+Trying make ends meet <br>
+You're a slave to money then you die <br>
+I'll take you down the only road I've ever been down <br>
+You know the one that takes you to the places <br>
+Where all the veins meet yeah <br>
+<br>
+No change, I can change <br>
+I can change, I can change <br>
+But I'm here in my mould <br>
+I am here in my mould <br>
+But I'm a million different people <br>
+From one day to the next <br>
+I can't change my mould <br>
+No, no, no, no, no <br>
+Have you ever been down? 
 </p>
 
 At the place where all the veins meet, what should we do for our life? Again, philosophers have given so many answers, some are good and some are bad. The recent one is *Martin Heidegger*. You see I am almost again lose the theme we should talk on - *assignments*. In the world where everyone is so practical (especially me), I have to come back to give the statements right now. Otherwise, I will lose my readers very soon.
