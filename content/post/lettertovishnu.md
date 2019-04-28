@@ -90,35 +90,9 @@ I will not expand the volumes of philosophy by Heidegger, but just give my refle
 
 But will the likeness, the word of sense and passion give us the rescue? I don't think so as artists are always rare. Remember you quoted the Buddha saying that everything is change, especially our feelings. People who like <mark style="background-color:#D0CB77">Van Gogh</mark> can endure the alienation of family and society and still love the world are very rare. But we are all the same. In the end, it's the courage, strength and love that make us being a decent person.
 
-So, forget all those logic and reasons supporting or discording one decision. It does not matter. Forget all those likeness, passions and enjoyment. It does not matter. Ask yourself: should I kill myself or not?
+So, forget all those logic and reasons supporting or discording decisions. It does not matter. Forget all those likeness, passions and enjoyment pushing or dragging your actions. It does not matter. Ask yourself: should I kill myself or not?
 
-**If not**, then I will hold my love and hate for almost everything, and try the best I can in my life path. Anyone who has this determination for death can do anything she/he seeks to do. 
+**If not**, then I will hold my love and hate for almost everything, and try the best I can in my life path. Anyone who has this determination for death can do anything she/he seeks to do. To be or not to be, it's a question. To live or not to live, it's an action.  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-End of letter
+You know, I like Bob Dylan. Listen to the following song by him. And interpret his lyrics with the theme of this letter. Then you will understand why he can win Nobel Prize.
+{{<youtube sDigsf8jJMU>}}
