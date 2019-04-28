@@ -79,12 +79,20 @@ But I'm a million different people <br>
 From one day to the next <br>
 I can't change my mould <br>
 No, no, no, no, no <br>
-Have you ever been down? 
+Have you ever been down?
 </p>
 
 At the place where all the veins meet, what should we do for our life? Again, philosophers have given so many answers, some are good and some are bad. The recent one is *Martin Heidegger*. You see I am almost again lose the theme we should talk on - *assignments*. In the world where everyone is so practical (especially me), I have to come back to give the statements right now. Otherwise, I will lose my readers very soon.
 
-I will not expand the volumes of philosophy by Heidegger, but just give my reflections on this very practical issue.
+I will not expand the volumes of philosophy by Heidegger, but just give my reflections on this very practical issue. Let me start a quote by myself.
+
+> By the time people realise logic can form a cycle and being useless to give the judgement and motivation, likeness and passion become the last refuge sought desperately by us - Michael
+
+But will the likeness, the word of sense and passion give us the rescue? I don't think so as artists are always rare. Remember you quoted the Buddha saying that everything is change, especially our feelings. People who like <mark style="background-color:#D0CB77">Van Gogh</mark> can endure the alienation of family and society and still love the world are very rare. But we are all the same. In the end, it's the courage, strength and love that make us being a decent person.
+
+So, forget all those logic and reasons supporting or discording one decision. It does not matter. Forget all those likeness, passions and enjoyment. It does not matter. Ask yourself: should I kill myself or not?
+
+**If not**, then I will hold my love and hate for almost everything, and try the best I can in my life path. Anyone who has this determination for death can do anything she/he seeks to do. 
 
 
 
