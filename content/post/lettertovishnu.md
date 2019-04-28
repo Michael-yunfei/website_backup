@@ -59,11 +59,11 @@ Now, you can see that it is not that easy to have the optimized solution for mos
 
 > Reason is, and ought only to be the slave of the passions - Hume
 
-“[…W]e can perceive no limits to the extension of our knowledge. The light dove cleaving in free flight the thin air, whose resistance it feels, might imagine that her movements would be far more free and rapid in airless space. Just in the same way did Plato, abandoning <mark style = "background-color:#5d918a">the world of sense</mark> because of the narrow limits it sets to the understanding, venture upon the wings of ideas beyond it, into the void space of pure intellect. He did not reflect that he made no real progress by all his efforts; for he met with no resistance which might serve him for a support, as it were, whereon to rest, and on which he might apply his powers, in order to let the intellect acquire momentum for its progress” (B 9). - Kant
+“[…W]e can perceive no limits to the extension of our knowledge. The light dove cleaving in free flight the thin air, whose resistance it feels, might imagine that her movements would be far more free and rapid in airless space. Just in the same way did Plato, abandoning <mark style = "background-color:#e0efda">the world of sense</mark> because of the narrow limits it sets to the understanding, venture upon the wings of ideas beyond it, into the void space of pure intellect. He did not reflect that he made no real progress by all his efforts; for he met with no resistance which might serve him for a support, as it were, whereon to rest, and on which he might apply his powers, in order to let the intellect acquire momentum for its progress” (B 9). - Kant
 
 Since logic is like a cycle, all judgements will be pinned down the <mark style = "background-color:#F67770">likeness</mark>. Likeness is the bitter sweet. At this moment, you might want to check the lyrics from *Bitter Sweet Symphony*:
 
-<p style="text-align:right>
+<p style="text-align:center">
 Cause it's a bittersweet symphony, that's life
 Tryna make ends meet
 You're a slave to money then you die
@@ -82,7 +82,9 @@ No, no, no, no, no
 Have you ever been down?
 </p>
 
-At the place where all the veins meet, what should we do for our life? Again, philosophers have given so many answers, some are good and some are bad. The recent one is *Martin Heidegger*. You see I am almost again lose the theme we should talk on - *assignments*. In the world where everyone is so practical (especially me), I have to come back to give the statements right now. Otherwise, I will lose my reader very soon. 
+At the place where all the veins meet, what should we do for our life? Again, philosophers have given so many answers, some are good and some are bad. The recent one is *Martin Heidegger*. You see I am almost again lose the theme we should talk on - *assignments*. In the world where everyone is so practical (especially me), I have to come back to give the statements right now. Otherwise, I will lose my readers very soon.
+
+I will not expand the volumes of philosophy by Heidegger, but just give my reflections on this very practical issue.
 
 
 
