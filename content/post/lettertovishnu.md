@@ -15,7 +15,7 @@ But human being is not living for having arguments. Of course, we are special be
 Taking the 'assignments talk' as an example, I can give some good reasons in support of having assignments is better for you. However, I can also give some evidences to support the opposite side. Students who graduate from business school might suggest you to draw a table to do SWOT (strength, weakness, opportunities and threats) analysis. We can laugh at SWOT at first. But, we also have to acknowledge that SWOT at least provides a way to solve the issue of dialectics. What do I mean when I talk about the issue of dialectics. Let's take a look at the following table.
 
 |Arguments | Evidence | Evaluate | Making Decision |
-| -------- | :--------: | -------- | --------------- |
+| :--------:| :--------: |:--------: | :--------------:|
 |Having Assignments | Certain pressures can make us become more competitive | Am I tough enough | Yes - do it; No - Leave it |
 |     | Assignments train us better | Do I need training? | Yes - do it; No - Leave it|
 |     | etc.. |
@@ -25,7 +25,12 @@ Taking the 'assignments talk' as an example, I can give some good reasons in sup
 | <td colspan=4> Human beings are so immense |
 
 Now, you can see that it is not that easy to have the optimized solution for most problems in our life. *If the logic can go on both sides, what's the right or wrong judgement*? It is not surprising that the relativism can rise in the global scale. For thousands of years, Philosophers are trying to solve this issue. Here are some famous quotes.
-> Reason is, and ought only to be the slave of the passions
+
+> Reason is, and ought only to be the slave of the passions - Hume
+
+“[…W]e can perceive no limits to the extension of our knowledge. The light dove cleaving in free flight the thin air, whose resistance it feels, might imagine that her movements would be far more free and rapid in airless space. Just in the same way did Plato, abandoning the world of sense because of the narrow limits it sets to the understanding, venture upon the wings of ideas beyond it, into the void space of pure intellect. He did not reflect that he made no real progress by all his efforts; for he met with no resistance which might serve him for a support, as it were, whereon to rest, and on which he might apply his powers, in order to let the intellect acquire momentum for its progress” (B 9). - Kant
+
+
 
 
 
