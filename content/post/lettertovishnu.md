@@ -22,9 +22,10 @@ Taking the 'assignments talk' as an example, I can give some good reasons in sup
 |Not Having Assignments | Freedom releases the true passion | Do I have strong passion | Yes - do it; No - Leave it |
 |     | Self-dancing gives better rhythm with enjoyment | Am I self-discipline |  Yes - do it; No - Leave it|
 |     | etc.. |
-| <td colspan=4> Human beings are so immense that it is so difficult to make decisions |
+| <td colspan=4> Human beings are so immense |
 
-Now, you can see that it is not that easy to have the optimized solution for most problems in our life. *If the logic can go on both sides, what's the right or wrong judgement*? 
+Now, you can see that it is not that easy to have the optimized solution for most problems in our life. *If the logic can go on both sides, what's the right or wrong judgement*? It is not surprising that the relativism can rise in the global scale. For thousands of years, Philosophers are trying to solve this issue. Here are some famous quotes.
+> Reason is, and ought only to be the slave of the passions
 
 
 
