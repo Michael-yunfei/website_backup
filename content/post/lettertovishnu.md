@@ -14,16 +14,6 @@ But human being is not living for having arguments. Of course, we are special be
 
 Taking the 'assignments talk' as an example, I can give some good reasons in support of having assignments is better for you. However, I can also give some evidences to support the opposite side. Students who graduate from business school might suggest you to draw a table to do SWOT (strength, weakness, opportunities and threats) analysis. We can laugh at SWOT at first. But, we also have to acknowledge that SWOT at least provides a way to solve the issue of dialectics. What do I mean when I talk about the issue of dialectics. Let's take a look at the following table.
 
-|Arguments | Evidence | Evaluate | Making Decision |
-| :--------:| :--------: |:--------: | :--------------:|
-|Having Assignments | Certain pressures can make us become more competitive | Am I tough enough | Yes - do it; No - Leave it |
-|     | Assignments train us better | Do I need training? | Yes - do it; No - Leave it|
-|     | etc.. |
-|Not Having Assignments | Freedom releases the true passion | Do I have strong passion | Yes - do it; No - Leave it |
-|     | Self-dancing gives better rhythm with enjoyment | Am I self-discipline |  Yes - do it; No - Leave it|
-|     | etc.. |
-| <td colspan=4> Human beings are so immense |
-
 <table style="width:100%">
   <tr>
     <th>Arguments</th>
@@ -38,14 +28,34 @@ Taking the 'assignments talk' as an example, I can give some good reasons in sup
     <td>Yes - do it; No - Leave it</td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td> </td>
+    <td>Assignments train us better</td>
+    <td>Do I need training?</td>
+    <td>Yes - do it; No - Leave it</td>
   </tr>
   <tr>
-    <td>John</td>
-    <td>Doe</td>
-    <td>80</td>
+  <td> </td>
+  <td colspan=3> etc. </td>
+  </tr>
+  <tr>
+    <td>Not Having Assignments</td>
+    <td>Freedom releases the true passion</td>
+    <td>Do I have strong passion</td>
+    <td>Yes - do it; No - Leave it</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Self-dancing gives better rhythm with enjoyment</td>
+    <td>Am I self-discipline?</td>
+    <td>Yes - do it; No - Leave it</td>
+  </tr>
+  <tr>
+  <td> </td>
+  <td colspan=3> etc. </td>
+  </tr>
+  <tr>
+  <td> </td>
+  <td colspan=3> Human beings are so immense </td>
   </tr>
 </table>
 
