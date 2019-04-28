@@ -7,7 +7,7 @@ tags = ["Music", "Oasis", "Guitar", "Verve", "Alabama Shakes", "Fleabag"]
 
 ## Discovering Alabama Shakes Band
 
-When I was watching British comedy series - *Fleabay*, I was attracted by the song they played at the end of last episode. It's called *This Feeling* by <mark style="background-color:#F7F7F9">Alabama Shakes</mark>. I was quite excited and thinking I need try to play and sing this song with my guitar. However, it turned out that it is very difficult to do soul music with guitar unless my skills are very advanced. Unfortunately it is not the right time for me.
+When I was watching British comedy series - *Fleabag*, I was attracted by the song they played at the end of last episode. It's called *This Feeling* by <mark style="background-color:#F7F7F9">Alabama Shakes</mark>. I was quite excited and thinking I need try to play and sing this song with my guitar. However, it turned out that it is very difficult to do soul music with guitar unless my skills are very advanced. Unfortunately it is not the right time for me.
 
 Here is the song by Alabama Shakes:
 {{<youtube FHljEtF3loE>}}
