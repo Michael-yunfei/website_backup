@@ -53,19 +53,37 @@ Taking the 'assignments talk' as an example, I can give some good reasons in sup
   <td> </td>
   <td colspan=3> etc. </td>
   </tr>
-  <tr>
-  <td> </td>
-  <td colspan=3> Human beings are so immense </td>
-  </tr>
 </table>
 
 Now, you can see that it is not that easy to have the optimized solution for most problems in our life. *If the logic can go on both sides, what's the right or wrong judgement*? It is not surprising that the relativism can rise in the global scale. For thousands of years, Philosophers are trying to solve this issue. Here are some famous quotes.
 
 > Reason is, and ought only to be the slave of the passions - Hume
 
-“[…W]e can perceive no limits to the extension of our knowledge. The light dove cleaving in free flight the thin air, whose resistance it feels, might imagine that her movements would be far more free and rapid in airless space. Just in the same way did Plato, abandoning the world of sense because of the narrow limits it sets to the understanding, venture upon the wings of ideas beyond it, into the void space of pure intellect. He did not reflect that he made no real progress by all his efforts; for he met with no resistance which might serve him for a support, as it were, whereon to rest, and on which he might apply his powers, in order to let the intellect acquire momentum for its progress” (B 9). - Kant
+“[…W]e can perceive no limits to the extension of our knowledge. The light dove cleaving in free flight the thin air, whose resistance it feels, might imagine that her movements would be far more free and rapid in airless space. Just in the same way did Plato, abandoning <mark style = "background-color:#5d918a">the world of sense</mark> because of the narrow limits it sets to the understanding, venture upon the wings of ideas beyond it, into the void space of pure intellect. He did not reflect that he made no real progress by all his efforts; for he met with no resistance which might serve him for a support, as it were, whereon to rest, and on which he might apply his powers, in order to let the intellect acquire momentum for its progress” (B 9). - Kant
 
-Since logic is like a cycle, all judgements will be pinned down the likeness.
+Since logic is like a cycle, all judgements will be pinned down the <mark style = "background-color:#F67770">likeness</mark>. Likeness is the bitter sweet. At this moment, you might want to check the lyrics from *Bitter Sweet Symphony*:
+
+<p style="text-align:right>
+Cause it's a bittersweet symphony, that's life
+Tryna make ends meet
+You're a slave to money then you die
+I'll take you down the only road I've ever been down
+You know the one that takes you to the places
+Where all the veins meet yeah
+
+No change, I can change
+I can change, I can change
+But I'm here in my mold
+I am here in my mold
+But I'm a million different people
+From one day to the next
+I can't change my mold
+No, no, no, no, no
+Have you ever been down?
+</p>
+
+At the place where all the veins meet, what should we do for our life? Again, philosophers have given so many answers, some are good and some are bad. The recent one is *Martin Heidegger*. You see I am almost again lose the theme we should talk on - *assignments*. In the world where everyone is so practical (especially me), I have to come back to give the statements right now. Otherwise, I will lose my reader very soon. 
+
 
 
 
